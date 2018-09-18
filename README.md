@@ -85,6 +85,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+<img src='https://github.com/may811204/Codepath-Tumblr/blob/master/tumblr-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
